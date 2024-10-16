@@ -1,0 +1,3 @@
+# News Classification
+
+This project aims to develop a Fake News Classification System using machine learning techniques to automatically detect and classify news articles as either fake or real. By leveraging Natural Language Processing (NLP) and various machine learning algorithms, the system will analyze the linguistic patterns, writing styles, and metadata of news articles to determine their authenticity. The project will involve dataset collection, text preprocessing, feature extraction, model training, and evaluation of various classifiers to identify the most accurate approach for fake news detection.
